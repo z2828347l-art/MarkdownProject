@@ -1,6 +1,6 @@
  # Markdown and Git Homework
 
- "In this exercise we will learn to master Git and GitHub"
+ "In this exercise we will learn to master Git and GitHub" [Git Documentation] (https://git-scm.com/doc)
 
  ## Table of Contents.
 
@@ -9,5 +9,15 @@
  * [Usage](#usage)
  * [Contributing](#contributing)
  * [License](#license)
+
+ ### Introduction 
+
+ ### Features 
+
+ ### Installation 
+
+ ### Usage 
+ 
+ ### License 
 
 
