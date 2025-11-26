@@ -12,12 +12,14 @@
 
  ### Introduction 
 
+ [Project Logo](images/computer-programming-image_blog.png)
+
  ### Features 
 
  ### Installation 
 
  ### Usage 
- 
+
  ### License 
 
 
