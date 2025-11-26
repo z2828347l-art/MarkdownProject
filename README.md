@@ -12,7 +12,7 @@
 
  ### Introduction 
 
- [Project Logo](images/computer-programming-image_blog.png)
+ [Project Logo](images/Untitled.jpeg)
 
  ### Features 
 
