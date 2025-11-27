@@ -1,0 +1,10 @@
+ # Guia 
+ **Abre un "Issue" en GitHub.** Esto es como abrir un ticket para decir "Voy a hacer este cambio o tengo este error".
+ **Usa ramas:** Siempre trabaja en una **rama nueva** (como `feature/mi-idea`). Nunca se trabaja directamente en la rama principal (`main`).
+
+# Envia tus Cambios
+
+ **Haz un "Pull Request" (PR).** Cuando termines tu trabajo en la rama, pide que se fusione a `main`.
+ En la descripción del Pull Request, escribe **`Resuelve #1`** (o el número de la Issue) para que se cierre la tarea automáticamente.
+
+
