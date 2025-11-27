@@ -1,3 +1,12 @@
+commit 33ade183782c0cd1a0d2c071a5503e55bf600c62
+Author: Valeria <z2828347_l@iespoblenou.org>
+Date:   Thu Nov 27 19:51:28 2025 +0100
+
+    Add validation 1 file
+
+ validation1.txt | 115 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 1 file changed, 115 insertions(+)
+
 commit 8b3f979f0986c2a88f5465e0e458b15861222660
 Author: Valeria <z2828347_l@iespoblenou.org>
 Date:   Thu Nov 27 19:27:53 2025 +0100
