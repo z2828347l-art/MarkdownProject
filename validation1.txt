@@ -1,0 +1,115 @@
+commit 8b3f979f0986c2a88f5465e0e458b15861222660
+Author: Valeria <z2828347_l@iespoblenou.org>
+Date:   Thu Nov 27 19:27:53 2025 +0100
+
+    "Merge add-license branch into main"
+
+ LICENSE.md | 8 +++++++-
+ 1 file changed, 7 insertions(+), 1 deletion(-)
+
+commit 548abbfeb767494126919534e417f7ac58d3be6d
+Author: Valeria <z2828347_l@iespoblenou.org>
+Date:   Thu Nov 27 19:22:48 2025 +0100
+
+    Add MIT License
+
+ LICENSE.md | 1 +
+ 1 file changed, 1 insertion(+)
+
+commit f6ac7519e357b662784dc8c13e90c8b6ee6a2ff4
+Author: Valeria <z2828347_l@iespoblenou.org>
+Date:   Thu Nov 27 18:59:21 2025 +0100
+
+    Enhance README with formatting
+
+ README.md | 19 +++++++++++++++++++
+ 1 file changed, 19 insertions(+)
+
+commit 2256195b35661d4d54d6a20ecb457a5963835386
+Author: Valeria <z2828347_l@iespoblenou.org>
+Date:   Thu Nov 27 18:05:51 2025 +0100
+
+    Add feature list table to README
+
+ README.md | 12 +++++++++---
+ 1 file changed, 9 insertions(+), 3 deletions(-)
+
+commit 846b843d4b2abeee948d43cb277b4581afbc7462
+Author: Valeria <z2828347_l@iespoblenou.org>
+Date:   Thu Nov 27 10:47:11 2025 +0100
+
+    Add project logo to README
+
+ README.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit 324f51188481ff5cb3bf5c58f7de8d4d2310a0e7
+Author: Valeria <z2828347_l@iespoblenou.org>
+Date:   Thu Nov 27 10:39:09 2025 +0100
+
+    Add project logo to README
+
+ Images/Untitled.jpeg                       | Bin 9165 -> 0 bytes
+ Images/images.jpeg                         | Bin 0 -> 9364 bytes
+ README.md                                  |   2 +-
+ images/computer-programming-image_blog.png |   0
+ 4 files changed, 1 insertion(+), 1 deletion(-)
+
+commit 3103f6a7f44f42b08f9bbf71bf792f648671c8ba
+Author: Valeria <z2828347_l@iespoblenou.org>
+Date:   Wed Nov 26 23:27:11 2025 +0100
+
+    Add project logo to README
+
+ Images/Untitled.jpeg                       | Bin 0 -> 9165 bytes
+ Images/computer-programming-image_blog.png | Bin 367973 -> 0 bytes
+ README.md                                  |   2 +-
+ images/computer-programming-image_blog.png |   0
+ 4 files changed, 1 insertion(+), 1 deletion(-)
+
+commit 65d02f3380aaf81f8f1ca9c8f446d9faf5c59f63
+Author: Valeria <z2828347_l@iespoblenou.org>
+Date:   Wed Nov 26 23:20:32 2025 +0100
+
+    Add project logo to README
+
+ Images/computer-programming-image_blog.png | Bin 0 -> 367973 bytes
+ README.md                                  |   4 +++-
+ 2 files changed, 3 insertions(+), 1 deletion(-)
+
+commit b394472200ffaeb91ed71487e9c1c8770e2c956a
+Author: Valeria <z2828347_l@iespoblenou.org>
+Date:   Wed Nov 26 22:35:51 2025 +0100
+
+    Add hyperlinks to README
+
+ README.md | 12 +++++++++++-
+ 1 file changed, 11 insertions(+), 1 deletion(-)
+
+commit 4120561b9eca02423d4da9f1d41cdcd97ae4086a
+Author: Valeria <z2828347_l@iespoblenou.org>
+Date:   Wed Nov 26 22:16:39 2025 +0100
+
+    Add Table of Contents to README
+
+ README.md | 12 +++++++++++-
+ 1 file changed, 11 insertions(+), 1 deletion(-)
+
+commit 0e669e4b4420ce8d4c2a2433f8bb8e0798816693
+Author: Valeria <z2828347_l@iespoblenou.org>
+Date:   Wed Nov 26 22:05:50 2025 +0100
+
+    Add README
+    with project introduction
+
+ README.md | 3 +++
+ 1 file changed, 3 insertions(+)
+
+commit e123976562ada599d5df78c031cac10d84addbb8
+Author: Valeria <z2828347_l@iespoblenou.org>
+Date:   Wed Nov 26 18:56:37 2025 +0100
+
+    Initial commit with .gitignore
+
+ .gitignore | 1 +
+ 1 file changed, 1 insertion(+)
