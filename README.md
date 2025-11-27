@@ -12,7 +12,7 @@
 
  ### Introduction 
 
- [Project Logo](images/Untitled.jpeg)
+ [Project Logo](images/images.jpeg)
 
  ### Features 
 
